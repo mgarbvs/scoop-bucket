@@ -1,0 +1,10 @@
+{
+	"homepage": "http://managore.itch.io/planetarium/",
+	"version": "1.0",
+	"license": "",
+	"url": "http://managore.itch.io/planetarium/purchase",
+  "hash": "
+",
+	"extract_dir": "planetarium",
+	"bin": "planetarium.exe"
+}
