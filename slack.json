@@ -1,0 +1,10 @@
+{
+	"homepage": "https://slack.com/",
+	"version": "1.2.7",
+	"license": "",
+	"url": "https://slack.com/ssb/download-win",
+  "hash": "
+",
+	"extract_dir": "slack",
+	"bin": "slacsetup.exe"
+}
