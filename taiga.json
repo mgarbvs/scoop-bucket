@@ -3,8 +3,12 @@
 	"version": "1.2.2",
 	"license": "GNUv3",
 	"url": "https://github.com/erengy/taiga/releases/download/v1.2.0/TaigaSetup.exe",
-  "hash": 
+  "hash":"
 ",
-	"extract_dir": "Taiga",
+	CRC-32: bb143e2b
+   MD4: b2cf0876dbe16688ab8bbe3b56942793
+   MD5: 9defa7e2b2ce3c6f115684a5d0d8e13d
+ SHA-1: 294525009dcc583106741448d47e105a00a06f9b
+
 	"bin": "taigasetup.exe"
 }
