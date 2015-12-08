@@ -1,0 +1,10 @@
+{
+	"homepage": "http://taiga.moe//",
+	"version": "1.2.2",
+	"license": "GNUv3",
+	"url": "https://github.com/erengy/taiga/releases/download/v1.2.0/TaigaSetup.exe",
+  "hash": 
+",
+	"extract_dir": "Taiga",
+	"bin": "taigasetup.exe"
+}
